@@ -1,7 +1,7 @@
 import requests
 import urllib.request
 import time
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup4
 import json
 import csv
 filecsv = open('SouqDataapple.csv', 'w',encoding='utf8')
